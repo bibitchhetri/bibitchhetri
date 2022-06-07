@@ -1,4 +1,4 @@
 - Hi, I'm Bibit Kunwar Chhetri👋
-- 🤔 I’m interested in Web Designing
+- 🤔 I’m interested in Cyber Security.
 - 🌱 I’m currently learning Node.js®🌐
 - 💬 working on C/C++/Python/Html/css/Js
