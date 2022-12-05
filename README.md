@@ -1,4 +1,4 @@
 - Hi, I'm Bibit Kunwar Chhetri👋
 - 🤔 I’m interested in Cyber Security.
 - 🌱 Learning CysA+🌐
-- 💬 Working on Metasploit Framework
+- 💬 Working on Emacs Configuration
