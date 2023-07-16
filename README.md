@@ -1,4 +1,4 @@
 - Hi, I'm Bibit Kunwar Chhetri👋
-- 🤔 I’m interested in Cyber Security.
-- 🌱 Learning CysA+🌐
+- 🤔 I’m interested in Free and Open-source Software.
+- 🌱 Learning Cpp at an intermediate level🌐
 - 💬 Working on Emacs Configuration
