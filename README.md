@@ -1,4 +1,4 @@
-- Hi, I'm Bibit Kunwar Chhetri👋
-- 🤔 I’m interested in Free and Open-source Software.
-- 🌱 Learning Cpp at an intermediate level🌐
-- 💬 Working on Emacs Configuration
+### Hello Geeks!
+- I'm Bibit Kunwar Chhetri
+### I wirte my life here!
+- [blog](https://bibitchhetri.github.io/)
