@@ -1,4 +1,5 @@
-### Hello Geeks!
+### Hello World!
 - I'm Bibit Kunwar Chhetri
-### I wirte my life here!
+- Software Engineering Student
+### I wirte my life here...
 - [blog](https://bibitchhetri.github.io/)
