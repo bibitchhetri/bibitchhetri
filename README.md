@@ -1,4 +1,4 @@
-### Hello Fellas!
+### hey fellas!
 - I'm Bibit Kunwar Chhetri
 - Software Engineer
 - Researcher
