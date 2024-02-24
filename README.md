@@ -3,4 +3,4 @@
 - Software Engineer
 - Researcher
 - I write my life here...
-- [blog](bibitkunwar.com.np)
+- [blog](https://www.bibitkunwar.com.np)
